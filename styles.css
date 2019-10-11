@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+.textBlue {
+  color: blue;
+  font-size: 22px;
+  font-weight: bold;
+}
